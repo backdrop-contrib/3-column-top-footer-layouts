@@ -5,8 +5,17 @@
 where a top footer in 3 columns are added.
 They were created as a result of inspiration and confusion from/by the receip-module 'Digital Agency'.
 
+This release contains:
+- moscone_flipped-3col-footer
+- moscone3col-footer
+- boxton-3col-footer
+- sutro-3col-footer
+
 Installation
 ------------
+
+- Download the zip file, upload it to your sites layout folder, unpack it
+  They should now be ready to use.
 
 - Install by, in the admin menubar, going to Structure > Layouts > Add layout.
   - or -
