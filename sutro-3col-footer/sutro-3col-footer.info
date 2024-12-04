@@ -1,0 +1,32 @@
+type = layout
+name = Sutro 3Col Footer
+version = BACKDROP_VERSION
+backdrop = 1.x
+
+; Specify regions for this layout.
+regions[header]     = Header
+regions[top]        = Top
+regions[content]    = Content
+regions[half1]      = First Half
+regions[half2]      = Second Half
+regions[bottom]     = Bottom
+regions[footertop1]     = FooterTop 1
+regions[footertop2]     = FooterTop 2
+regions[footertop3]     = FooterTop 3
+regions[footer]     = Footer
+
+; The default region automatically receives the "Main Content" block if needed.
+default region = content
+
+; Include a file for special preprocessing of this layout's variables.
+; file = sutro-3col-footer.php
+
+; Default stylesheets for this layout
+; stylesheets[all][] = sutro-3col-footer.css
+
+; Preview
+preview = sutro-3col-footer.png
+
+; Include the Bootstrap4 Grid System
+libraries[] = bootstrap4-gs
+
