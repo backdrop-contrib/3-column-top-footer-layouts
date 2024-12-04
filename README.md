@@ -7,7 +7,7 @@ They were created as a result of inspiration and confusion from/by the receip-mo
 
 This release contains:
 - moscone_flipped-3col-footer
-- moscone3col-footer
+- moscone-3col-footer
 - boxton-3col-footer
 - sutro-3col-footer
 
