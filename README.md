@@ -3,6 +3,7 @@
 
 3-Column-Top-Footer-Layouts are clones of core BackdropCMS layouts
 where a top footer in 3 columns are added.
+They were created as a result of inspiration and confusion from/by the receip-module 'Digital Agency'.
 
 Installation
 ------------
