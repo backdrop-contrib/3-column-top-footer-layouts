@@ -16,7 +16,7 @@ Installation
 Issues
 ------
 
-Bugs and feature requests should be reported in [the Issue Queue]([https://github.com/backdrop-contrib/3-Column-Top-Footer-Layouts//issues](https://github.com/Egmund/3-Column-Top-Footer-Layouts/issues)).
+Bugs and feature requests should be reported in [the Issue Queue](https://github.com/Egmund/3-Column-Top-Footer-Layouts/issues).
 
 Current Maintainers
 -------------------
