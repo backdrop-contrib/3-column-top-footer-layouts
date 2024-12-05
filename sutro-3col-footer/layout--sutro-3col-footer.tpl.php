@@ -100,17 +100,17 @@
   <?php if ($content['footer']): ?>
     <footer class="l-footer">
       <div class="l-footer-inner container container-fluid">
-          <div class="l-footer3 l-thirds row">
-        <div class="l-thirds-region col-md-4">
-          <?php print $content['footertop1']; ?>
-        </div>
-        <div class="l-thirds-region col-md-4">
-          <?php print $content['footertop2']; ?>
-        </div>
-        <div class="l-thirds-region col-md-4">
-          <?php print $content['footertop3']; ?>
-        </div>
-      </div><!-- /.l-footer3 -->
+         <div class="l-footer3 l-thirds row">
+           <div class="l-thirds-region col-md-4">
+             <?php print $content['footertop1']; ?>
+           </div>
+           <div class="l-thirds-region col-md-4">
+             <?php print $content['footertop2']; ?>
+           </div>
+           <div class="l-thirds-region col-md-4">
+             <?php print $content['footertop3']; ?>
+           </div>
+        </div><!-- /.l-footer3 -->
         <?php print $content['footer']; ?>
       </div>
     </footer>
