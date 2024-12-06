@@ -37,6 +37,7 @@ Credits
 -------
 
 - Credits to all BackdropCMS core developers
+- Sponsored by [HaurdalNet](https://haurdalnet.dk)
 
 
 License
