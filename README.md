@@ -5,11 +5,17 @@
 where a top footer in 3 columns are added.
 They were created as a result of inspiration and confusion from/by the receip-module 'Digital Agency'.
 
-This release contains:
+This release now contains clone of all core layouts (well, except the mysterious 'legacy'):
 - moscone_flipped-3col-footer
 - moscone-3col-footer
 - boxton-3col-footer
 - sutro-3col-footer
+- geary-3col-footer
+- harris-3col-footer
+- rolph-3col-footer
+- simmons-3col-footer
+- taylor-3col-footer
+- taylor_flipped-3col-footer
 
 Installation
 ------------
