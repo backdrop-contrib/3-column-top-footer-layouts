@@ -32,7 +32,7 @@ preview = simmons-3col-footer.png
 libraries[] = bootstrap4-gs
 
 ; Include file for special preprocessing of this layout's variables.
-file = simmons-3col-footer.php
+file = simmons_3col_footer.php
 
 ; Default stylesheets for this layout
-; stylesheets[all][] = simmons-3col-footer.css
+; stylesheets[all][] = simmons_3col_footer.css
