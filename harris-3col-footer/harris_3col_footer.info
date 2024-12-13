@@ -19,10 +19,10 @@ regions[footer]     = Footer
 default region = content
 
 ; Include a file for special preprocessing of this layout's variables.
-; file = harris-3col-footer.php
+; file = harris_3col_footer.php
 
 ; Default stylesheets for this layout
-; stylesheets[all][] = harris-3col-footer.css
+; stylesheets[all][] = harris_3col_footer.css
 
 ; Preview
 preview = harris-3col-footer.png
