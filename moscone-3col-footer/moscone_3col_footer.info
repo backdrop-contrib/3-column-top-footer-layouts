@@ -18,10 +18,10 @@ regions[footer]     = Footer
 default region = content
 
 ; Include a file for special preprocessing of this layout's variables.
-; file = moscone-3col-footer.php
+; file = moscone_3col_footer.php
 
 ; Default stylesheets for this layout
-; stylesheets[all][] = moscone-3col-footer.css
+; stylesheets[all][] = moscone_3col_footer.css
 
 ; Preview
 preview = moscone-3col-footer.png
