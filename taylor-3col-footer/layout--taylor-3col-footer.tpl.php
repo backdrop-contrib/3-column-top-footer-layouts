@@ -93,7 +93,7 @@
     </div><!-- /.l-wrapper-inner -->
   </div><!-- /.l-wrapper -->
 
-  <?php if ($content['footer']): ?>
+  <?php if ($content['footer'] or $content['footertop1'] or $content['footertop2'] or $content['footertop3']): ?>
     <footer class="l-footer">
       <div class="l-footer-inner container container-fluid">
          <div class="l-footer3 l-thirds row">
