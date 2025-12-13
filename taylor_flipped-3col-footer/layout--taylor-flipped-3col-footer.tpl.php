@@ -101,7 +101,12 @@
              <?php print $content['footertop1']; ?>
            </div>
            <div class="l-thirds-region col-md-4">
-        <?php print $content['footer']; ?>
+             <?php print $content['footertop2']; ?>
+           </div>
+           <div class="l-thirds-region col-md-4">
+             <?php print $content['footertop3']; ?>
+           </div>
+        </div><!-- /.l-footer3 -->        <?php print $content['footer']; ?>
       </div>
     </footer>
   <?php endif; ?>
