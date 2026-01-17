@@ -33,7 +33,7 @@ Updating
   - Please note that if/when updating this package of layouts you might get some errors.
   - It is perfectly safe to ignore them. Just run the update script as usual
   - and take the site out of maintenance. All layouts are installed and ready to use.
-  - The cause of the errors are renaming of some files as well as added layouts.
+  - The cause of the errors are in core prior to 1.33.
 
 Issues
 ------
